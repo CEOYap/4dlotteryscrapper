@@ -1,3 +1,5 @@
+# 4D Lottery Scrapper - Grand Dragon 4D, Toto, etc
+
 ## Description
 A python script which uses `Playwright` for asynchronous web scraping of previous `Grand Dragon 4D` lottery results from `check4d.org` and outputs an .xlsx. The excel sheet can be further imported into Postgres for further analysis or processing via postgres.py.
 ## Key Features
